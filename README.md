@@ -1,1 +1,1 @@
-## AC code on Luogu
+## AC code on OJ
